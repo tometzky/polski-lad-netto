@@ -1,6 +1,8 @@
 # polski-lad-netto
 Kalkulator (arkusz kalkulacyjny LibreOffice/Excel) wynagrodzenia netto (na rękę) w 2022 r. (Polski Ład) oraz w 2021 r.
 
+![Screenshot](polski-lad-netto.png?raw=true)
+
 Kalkulator stworzony dlatego, że mnóstwo kalkulatorów dostępnych w Internecie podaje
 nieprawidłowe wyliczenia.
 
