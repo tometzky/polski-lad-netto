@@ -15,8 +15,5 @@ ten rozjazd. Chętnie przyjmę pomoc w naprawieniu tego.
 
 Skoroszyt ma arkusze dla roku 2022 (zasady Polskiego Ładu) oraz, dla porównania, dla roku 2021.
 
-Arkusze nie obsługują (jeszcze) wyliczeń dla miesięcy, w których część podstawy opodatkowania jest
-opodatkowana w innym progu podatkowym, lub część podstawy stawek na ZUS jest poza limitem.
-
 Autor:
 Tomasz "Tometzky" Ostrowski
