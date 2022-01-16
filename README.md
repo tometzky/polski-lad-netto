@@ -7,11 +7,8 @@ Kalkulator (arkusz kalkulacyjny LibreOffice/Excel) wynagrodzenia netto (na ręk�
 Kalkulator stworzony dlatego, że mnóstwo kalkulatorów dostępnych w Internecie podaje
 nieprawidłowe wyliczenia.
 
-Wyliczone kwoty netto zgadzają się z tymi, które podaje \
-https://www.podatki.gov.pl/polski-lad/kwota-wolna-polski-lad/kalkulator-wynagrodzen-polski-lad/ \
-do 8403zł brutto. Powyżej tej kwoty trochę się rozjeżdża, ale nie wiem jeszcze dlaczego.
-Kod tej strony jest zaciemniony (obfuscated), więc trudno jest sprawdzić, co dokładnie powoduje
-ten rozjazd. Chętnie przyjmę pomoc w naprawieniu tego.
+Wyliczone kwoty netto (średnia z całego roku) zgadzają się z tymi, które podaje \
+https://www.podatki.gov.pl/polski-lad/kwota-wolna-polski-lad/kalkulator-wynagrodzen-polski-lad/
 
 Skoroszyt ma arkusze dla roku 2022 (zasady Polskiego Ładu) oraz, dla porównania, dla roku 2021.
 
