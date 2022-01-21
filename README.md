@@ -8,6 +8,7 @@ Kalkulator stworzony dlatego, że mnóstwo kalkulatorów dostępnych w Interneci
 nieprawidłowe wyliczenia. Ponadto, w przeciwieństwie do kalkulatorów internetowych, które znalazłem, pozwala na:
 * podwojenie progu podatkowego przy wspólnym rozliczaniu;
 * dodanie niepieniężnego wynagrodzenia (np. pakiet medyczny, karta sportowa itp.);
+* dodanie wynagrodzenia niepodlegającego składkom ZUS (np. nagroda jubileuszowa, częściowo płatne wynikające z regulaminu itp.);
 * wpisanie podwyższonych kosztów uzyskania przychodu (50% od części pensji, przy przekazywaniu pracodawcy praw autorskich);
 * włączanie lub wyłączanie kwoty wolnej (np. jak się ma rentę lub emeryturę lub zatrudnienie u innego pracodawcy);
 * włączanie lub wyłączanie PPK;
