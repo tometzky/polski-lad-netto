@@ -23,5 +23,8 @@ https://www.podatki.gov.pl/polski-lad/kwota-wolna-polski-lad/kalkulator-wynagrod
 
 Skoroszyt ma arkusze dla roku 2022 (zasady Polskiego Ładu) oraz, dla porównania, dla roku 2021.
 
-Autor:
+Autor:\
 Tomasz "Tometzky" Ostrowski
+
+Strona projektu:\
+https://tometzky.github.io/polski-lad-netto/
